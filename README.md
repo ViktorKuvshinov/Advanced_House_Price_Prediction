@@ -1,4 +1,5 @@
 # Data analysis and implementation of ML models
+<img width="821" alt="image" src="https://user-images.githubusercontent.com/79322484/159686192-9fb63c9e-4e28-4db4-8aa5-8b9e1fcc1583.png">
 Competition link - [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 
 What has been done:
